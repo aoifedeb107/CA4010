@@ -1,0 +1,47 @@
+
+Sample Set: 
+----------
+
+Number of accidents overall: 791991.0
+Number of fatalities: 7218.0
+Count of female Accidents: 329351.0
+Count of male Accidents: 462640.0
+Count of fatal females: 1820.0
+Count of fatal males: 5398.0
+
+prediction gender: 1.0
+Percent of most common gender in a fatality: 74.7852554321289
+Total Female Fatalities With AgeBand=Mode: 422.0
+Total male Fatalities With AgeBand=Mode: 882.0
+ most popular AgeBand for Females: 11.0
+Most popular AgeBand for Males: 6.0
+Count of people in sever accident of predicted gender WITH predicted ageband = 222.0
+
+
+2014 Test Set: 
+----------
+
+Number of accidents overall: 194477.0
+Number of fatal accidents: 1775.0
+Most common gender in fatality: 1.0
+Number of fatalities: 1775.0
+Count of fatal males: 1310.0
+Count of fatal females: 465.0
+Count of gender matching predicted Gender: 1310.0
+Percent Fatal Females with age band = 11 25.59139633178711
+Percent of that gender in fatality: 73.80282%
+Mode of gender: 1.0
+Fatality Percent For that Gender: 
+
+Accuracy of prediction:
+That gender type 1.0 (1 = male, 2 = female) will be in a fatality in 2014 is: 
+98.68632241995795
+Percentage of FATALITIES with most frequently occurring gender who also are within the ageband mode (for fatalities in that gender): 
+sample set: 
+12.219450950622559
+
+2014: 
+16.946563720703125
+
+Accuracy of prediction for fatality to occur to Gender of 1.0 and age band to be 6.0 is: 
+61.31485130402092
